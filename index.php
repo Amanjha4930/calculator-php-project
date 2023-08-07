@@ -1,5 +1,4 @@
 <?php
-// define variables and set to empty values
 $input =  $result = "";
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
